@@ -1,7 +1,7 @@
 <script setup>
     // Import BlogPost component
     import BlogPost from './subcomponents/BlogPost2.vue'
-  import axios from 'axios'
+    import axios from 'axios'
 </script>
 
 <script>
